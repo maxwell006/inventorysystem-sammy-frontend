@@ -1,1 +1,0 @@
-# inventorysystem-sammy-frontend
